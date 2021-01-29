@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* this is for more forms */
+.person{
+  font-size: 18px;
+}
+
+.user{
+  font-size: 35px;
+  
+}
+
+.age{
+  padding-top: 10px;
+  
+}
+.main{
+  display:block;
+  padding-left: 40px;
+  
+}
+
+.btn{
+  border-radius: 4rem;
+  height: 40px;
+  width: 80px;
+  background-color: blue;
+  margin-left: 20px;
+}
+
+.item{
+  color: blue;
+  list-style: none;
+  font-size: 30px;
+}
+/* This Ends More Forms */
+
+/* This block will be for Box Gen */
+
+
